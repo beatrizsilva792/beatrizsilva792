@@ -1,7 +1,7 @@
 ## Quem Sou Eu
 - Estudante de Ciência da Computação
 - Busco atuar como Estagiária em Análise de Dados
-- Atualmente aprofundando meus conhecimentos em Engenharia de prompt, Metodologia Ágeis, 
+- Atualmente aprofundando meus conhecimentos em Engenharia de prompt, Metodologia Ágeis, Desenvolvimento Web, Banco de dados
 
 ## Tecnologia e Ferramentas
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat-square)
